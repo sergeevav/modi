@@ -1,9 +1,9 @@
 package modi
 
 import (
- "fmt"
- )
+	"fmt"
+)
 
- func Version() {
- fmt.Println("Modi version 1.0.0")
- }
+func Version() {
+	fmt.Println("Modi version 1.1.0")
+}
