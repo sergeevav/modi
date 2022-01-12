@@ -5,5 +5,5 @@ import (
 )
 
 func Version() {
-	fmt.Println("Modi version 1.1.0")
+	fmt.Println("Modi version 2.0.0")
 }
